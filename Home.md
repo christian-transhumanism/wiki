@@ -1,1 +1,1 @@
-Here's a sample new page, so let's see where it takes us.
+Christian Transhumanism is the ethical pursuit of advancing humanity using science and technology.
