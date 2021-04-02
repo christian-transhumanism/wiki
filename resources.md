@@ -1,0 +1,27 @@
+- CTA Calendar: Regular Meetings & Events
+  - [Webpage](https://www.christiantranshumanism.org/calendar)
+  - [iCal](https://www.christiantranshumanism.org/calendar/ical)
+  - [gCal](https://www.christiantranshumanism.org/calendar/gcal)
+- CTA Zoom Link
+  - [CTA Zoom Link](https://www.christiantranshumanism.org/zoom)
+  - via Phone
+    - Dial by your location
+        - +1 301 715 8592 US (Washington DC)
+        - +1 312 626 6799 US (Chicago)
+        - +1 929 436 2866 US (New York)
+        - +1 253 215 8782 US (Tacoma)
+        - +1 346 248 7799 US (Houston)
+        - +1 669 900 6833 US (San Jose)
+    - Meeting ID: 968 6726 6649
+    - Passcode: 185412
+    - Find your local number: https://zoom.us/u/aizbwV55f
+- CTA Paypal Donate Link
+  - [CTA Paypal](https://www.paypal.me/ChristianTranshuman)
+- CTA Social Media
+  - [Email discussion group](https://groups.google.com/g/christian-transhumanism)
+  - [Facebook](https://www.facebook.com/groups/ChristianTranshumanistAssociation)
+  - [Twitter](https://twitter.com/xianityplus)
+  - [Youtube](https://www.christiantranshumanism.org/youtube)
+  - [Reddit](https://www.reddit.com/r/christianityplus)
+  - [Clubhouse](https://www.christiantranshumanism.org/clubhouse)
+  - [Discord](https://discord.gg/cC8H4CJBaB)
